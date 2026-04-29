@@ -1,0 +1,17 @@
+# =========================
+# Python / Flask Backend
+# =========================
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+
